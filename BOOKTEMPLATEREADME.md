@@ -22,7 +22,7 @@ To use this template, follow these instructions:
 1. Fill out a Repository name and Description
 1. Click the green "Create repository from template" button
 1. On the new repository, wait for the GitHub action to complete
-  - This action will create the `gh-pages` branch
+    - This action will create the `gh-pages` branch
 1. When the action is done, click on "Settings"
 1. On the "Settings" page, on the left, click on "Pages"
 1. In the "Build and deployment" section, click the dropdown under "Branch"
