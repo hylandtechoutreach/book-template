@@ -4,7 +4,7 @@ This is a repository with the basic files/structure for a Tech Outreach lesson o
 ## Files
 Here is a breakdown of the files in this repository:
 
-- [**.github/workflows/buildGitbook.yml**](.github/workflows/buildGitbook.yml): This file describes the GitHub action to build the GitBook from this repository. It places the code in a branch named `gh-pages`, which GitHub Pages can use to render the book online.
+- [**.github/workflows/BuildGitBook.yml**](.github/workflows/BuildGitBook.yml): This file describes the GitHub action to build the GitBook from this repository. It places the code in a branch named `gh-pages`, which GitHub Pages can use to render the book online.
 - [**styles/website.css**](styles/website.css): This file adds custom styles to the GitBook.
 - [**.gitignore**](.gitignore): This file lists files that should be ignored by Git.
 - [**book.json**](book.json): This file contains configuration information for the GitBook.
