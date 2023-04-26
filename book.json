@@ -3,5 +3,6 @@
     "readme": "StudentDesc.md",
     "summary": "SUMMARY.md"
   },
+  "title": "Page Title",
   "plugins": ["toggle-chapters"]
 }
